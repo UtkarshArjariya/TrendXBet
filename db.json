@@ -1,0 +1,68 @@
+{
+  "matches": [
+    {
+      "id": 100,
+      "teamA": "DC",
+      "teamB": "GT",
+      "oddsA": 1.9,
+      "oddsB": 1.9,
+      "status": "open"
+    },
+    {
+      "id": 101,
+      "teamA": "RR",
+      "teamB": "LSG",
+      "oddsA": 1.9,
+      "oddsB": 1.9,
+      "status": "open"
+    },
+    {
+      "id": 102,
+      "teamA": "RR",
+      "teamB": "DC",
+      "oddsA": 1.9,
+      "oddsB": 2.1,
+      "status": "open",
+      "createdAt": "2025-05-11T08:52:07.088Z"
+    }
+  ],
+  "bets": [
+    {
+      "matchId": 101,
+      "team": "RR",
+      "amount": 1,
+      "userId": 833852943,
+      "status": "pending"
+    },
+    {
+      "id": "majaohq4t8vnr34gvl",
+      "matchId": 100,
+      "team": "DC",
+      "amount": 1,
+      "userId": 833852943,
+      "userWallet": "HJo8pAzpNyyPQtNFUaRT1sn6oxvYP9tdArPhcxHiU8X9",
+      "status": "pending",
+      "createdAt": "2025-05-11T06:50:29.692Z"
+    },
+    {
+      "id": "majbj2p3wclfogbzeor",
+      "matchId": 100,
+      "team": "GT",
+      "amount": 1,
+      "userId": 833852943,
+      "userWallet": "HJo8pAzpNyyPQtNFUaRT1sn6oxvYP9tdArPhcxHiU8X9",
+      "status": "pending",
+      "createdAt": "2025-05-11T07:14:16.551Z"
+    },
+    {
+      "id": "makypsnb5w0vzgbeb87",
+      "matchId": 100,
+      "team": "DC",
+      "amount": 0.5,
+      "userId": 1379053059,
+      "userWallet": "A6NoSTXvx2xdHSMtbHbLY55rg7hz4dKZUgKfVtknWAsc",
+      "status": "pending",
+      "createdAt": "2025-05-12T10:51:07.463Z"
+    }
+  ]
+}
