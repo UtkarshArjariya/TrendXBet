@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 
 // Replace with your bot token
-const bot = new Telegraf('7640815198:AAEDOxnSNjU3G_SrRAkc3oFu86Dc0lSCpIU');
+const bot = new Telegraf('Here');
 
 bot.on('message', (ctx) => {
   console.log('Your Telegram ID:', ctx.from.id);
